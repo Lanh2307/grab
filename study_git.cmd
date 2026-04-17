@@ -1,3 +1,5 @@
-cách học git
+cách học git tốt
 1. PULL về máy
-2. push lên git
+ push lên git
+
+push lên lại git nhé
